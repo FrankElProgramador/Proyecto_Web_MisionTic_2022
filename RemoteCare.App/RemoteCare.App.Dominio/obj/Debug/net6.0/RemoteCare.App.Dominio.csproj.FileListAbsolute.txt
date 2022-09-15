@@ -1,0 +1,12 @@
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Dominio\obj\Debug\net6.0\RemoteCare.App.Dominio.csproj.AssemblyReference.cache
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Dominio\obj\Debug\net6.0\RemoteCare.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Dominio\obj\Debug\net6.0\RemoteCare.App.Dominio.AssemblyInfoInputs.cache
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Dominio\obj\Debug\net6.0\RemoteCare.App.Dominio.AssemblyInfo.cs
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Dominio\obj\Debug\net6.0\RemoteCare.App.Dominio.csproj.CoreCompileInputs.cache
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Dominio\bin\Debug\net6.0\RemoteCare.App.Dominio.deps.json
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Dominio\bin\Debug\net6.0\RemoteCare.App.Dominio.dll
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Dominio\bin\Debug\net6.0\RemoteCare.App.Dominio.pdb
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Dominio\obj\Debug\net6.0\RemoteCare.App.Dominio.dll
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Dominio\obj\Debug\net6.0\refint\RemoteCare.App.Dominio.dll
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Dominio\obj\Debug\net6.0\RemoteCare.App.Dominio.pdb
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Dominio\obj\Debug\net6.0\ref\RemoteCare.App.Dominio.dll

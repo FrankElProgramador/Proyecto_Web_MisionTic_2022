@@ -1,0 +1,17 @@
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Persistencia\obj\Debug\net6.0\RemoteCare.App.Persistencia.csproj.AssemblyReference.cache
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Persistencia\obj\Debug\net6.0\RemoteCare.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Persistencia\obj\Debug\net6.0\RemoteCare.App.Persistencia.AssemblyInfoInputs.cache
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Persistencia\obj\Debug\net6.0\RemoteCare.App.Persistencia.AssemblyInfo.cs
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Persistencia\obj\Debug\net6.0\RemoteCare.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Persistencia\bin\Debug\net6.0\RemoteCare.App.Persistencia.deps.json
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Persistencia\bin\Debug\net6.0\RemoteCare.App.Persistencia.runtimeconfig.json
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Persistencia\bin\Debug\net6.0\RemoteCare.App.Persistencia.dll
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Persistencia\bin\Debug\net6.0\RemoteCare.App.Persistencia.pdb
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Persistencia\bin\Debug\net6.0\RemoteCare.App.Dominio.dll
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Persistencia\bin\Debug\net6.0\RemoteCare.App.Dominio.pdb
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Persistencia\obj\Debug\net6.0\RemoteCare.App.Persistencia.csproj.CopyComplete
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Persistencia\obj\Debug\net6.0\RemoteCare.App.Persistencia.dll
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Persistencia\obj\Debug\net6.0\refint\RemoteCare.App.Persistencia.dll
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Persistencia\obj\Debug\net6.0\RemoteCare.App.Persistencia.pdb
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Persistencia\obj\Debug\net6.0\RemoteCare.App.Persistencia.genruntimeconfig.cache
+C:\RemoteCare\RemoteCare.App\RemoteCare.App.Persistencia\obj\Debug\net6.0\ref\RemoteCare.App.Persistencia.dll
