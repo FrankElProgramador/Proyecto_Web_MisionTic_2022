@@ -13,7 +13,8 @@ namespace RemoteCare.App.Consola
             //AddOveja();
             //obtenerOveja("Vela");
             //EliminarOveja(1,1);
-            obtenerOveja(2);
+            int ID = 2;
+            obtenerOveja(ID);
         }
 
         //añadir objeto a la BD
