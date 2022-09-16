@@ -9,12 +9,17 @@ namespace RemoteCare.App.Consola
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Bitches");
-            //AddOveja();
+            //AdicionarOveja();
             //obtenerOveja("Vela");
-            //EliminarOveja(1,1);
-            int ID = 2;
-            obtenerOveja(ID);
+            //EliminarOveja(1);
+            //obtenerOveja(2);
+            TraerTodasLasOvejas();
+        }
+
+        private static void TraerTodasLasOvejas()
+        {
+            var goat = _repoOveja.GetAllOvejas();
+            Console.WriteLine("Xd");
         }
 
         //añadir objeto a la BD
@@ -33,15 +38,15 @@ namespace RemoteCare.App.Consola
         }
 
         //Buscar Objeto en la BD
-        private static void obtenerOveja(int ID)
+        private static void obtenerOveja(int idoveja)
         {
-            var goat = _repoOveja.GetOveja(ID);
+            var goat = _repoOveja.GetOveja(idoveja);
             Console.WriteLine("yeah motherfucker");
         }
 
-        private static void EliminarOveja(int ID)
+        private static void EliminarOveja(int idoveja)
         {
-            _repoOveja.DeleteOveja(ID);
+            _repoOveja.DeleteOveja(idoveja);
             Console.WriteLine("Oveja Eliminada");
         }
 
